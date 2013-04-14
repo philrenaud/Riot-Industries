@@ -1,0 +1,146 @@
+/*=====================
+phil@riotindustries.com
+March 2013
+=====================*/
+
+
+/*==================================================================
+=Primary Styles
+----------------------------------------------------------------- */
+
+
+h2 {
+	font-size: 3em;
+}
+
+
+header nav {
+	float: right;
+	display: block;
+}
+
+header nav a {
+	display: block;
+	float: left;
+	padding: 10px;
+	font-weight: bold;
+	letter-spacing: -0.1em;
+	color: #ccc;
+}
+
+
+/*==================================================================
+=Upper
+----------------------------------------------------------------- */
+
+header {
+	position: fixed;
+	width: 80%;
+	top: 50px;
+	left: -40%;
+}
+
+header:hover > .inner {
+      -webkit-transform: translateZ( 0px ) rotateX(  -10deg );
+         -moz-transform: translateZ( 0px ) rotateX(  -10deg );
+           -o-transform: translateZ( 0px ) rotateX(  -10deg );
+              transform: translateZ( 0px ) rotateX(  -10deg );
+}
+
+header:hover .top {
+	background-color: #fff;
+}
+
+header:hover .front {
+	background-color: #f0f0f0;
+}
+
+header.topspin > .inner {
+      -webkit-transform: translateZ( 0px ) rotateX(  -90deg );
+         -moz-transform: translateZ( 0px ) rotateX(  -90deg );
+           -o-transform: translateZ( 0px ) rotateX(  -90deg );
+              transform: translateZ( 0px ) rotateX(  -90deg );
+}
+
+header.topspin .top {
+	background-color: #fff;
+}
+
+header.topspin .front {
+	background-color: #ccc;
+}
+
+
+header .top p {
+	padding: 16px 0px;
+	line-height: 150%;
+	font-size: 18px;
+}
+
+.mobilenavcontainer,
+.mobilenavbutton {
+	display: none;
+}
+
+/*==================================================================
+=About
+----------------------------------------------------------------- */
+
+section#about {
+	height: 500px;
+}
+
+
+section#about > .inner {
+	margin-top: 200px;
+	width: 80%;
+}
+
+
+/*==================================================================
+=Words
+----------------------------------------------------------------- */
+
+#words h2 {
+	font-size: 2em;
+	margin-bottom: 30px;
+}
+
+
+#words article {
+	width: 80%;
+	margin-bottom: 30px;
+}
+
+
+#words article > .inner p {
+	clear: left;
+}
+
+
+
+/*==================================================================
+=Work
+----------------------------------------------------------------- */
+
+#work h2 {
+	font-size: 2em;
+}
+
+#work > .inner {
+	width: 100%;
+	margin: auto;
+	padding: 20px 0px;
+}
+
+.project h3 {
+	white-space: nowrap;
+}
+
+.project {
+	width: 80%;
+	margin: auto;
+	clear: both;
+	float: none;
+	margin-bottom: 2px;
+}

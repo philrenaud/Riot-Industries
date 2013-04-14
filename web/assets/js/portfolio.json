@@ -1,0 +1,192 @@
+{
+	"TreatHIVNow":
+    {
+        "project"     : "Treat HIV Now",
+        "abstract"     :  "",
+        "year"           : "2012",
+        "web"       : "http://treathivnow.com",
+        "images"        : [
+        "/thn/1.jpg", "/thn/2.jpg", "/thn/3.jpg", "/thn/4.jpg"
+        ]
+    },
+	"FirstSolar":
+    {
+        "project"     : "First Solar",
+        "abstract"     :  "",
+        "year"           : "2012",
+        "web"       : "",
+        "images"        : [
+        "/firstsolar/1.jpg", "/firstsolar/2.jpg"
+        ]
+    },
+	"MidFirstBank":
+    {
+        "project"     : "MidFirst Bank",
+        "abstract"     :  "",
+        "year"           : "2012",
+        "web"       : "http://midfirstprivatebank.com",
+        "images"        : [
+        "/mfb/1.jpg", "/mfb/2.jpg", "/mfb/3.jpg"
+        ]
+    },
+	"CasinoArizona":
+    {
+        "project"     : "Casino Arizona",
+        "abstract"     :  "",
+        "year"           : "2011",
+        "web"       : "",
+        "images"        : [
+        "/casinoaz/1.jpg"
+        ]
+    },
+	"EnergizePhoenix":
+    {
+        "project"     : "Energize Phoenix",
+        "abstract"     :  "",
+        "year"           : "2010",
+        "web"       : "",
+        "images"        : [
+        "/energizephoenix/1.jpg"
+        ]
+    },
+	"FamousFootwear":
+    {
+        "project"     : "Famous Footwear",
+        "abstract"     :  "",
+        "year"           : "2009",
+        "web"       : "",
+        "images"        : [
+        "/famousfootwear/1.jpg"
+        ]
+    },
+	"FirstCreditUnion":
+    {
+        "project"     : "First Credit Union",
+        "abstract"     :  "",
+        "year"           : "2010",
+        "web"       : "http://firstcu.coop",
+        "images"        : [
+        "/fcu/fcu1.jpg", "/fcu/fcu2.jpg", "/fcu/fcu3.jpg", "/fcu/fcu4.jpg", "/fcu/fcu5.jpg", "/fcu/fcu6.jpg", "/fcu/fcu7.jpg"
+        ]
+    },
+	"CityOfPhoenix":
+    {
+        "project"     : "City of Phoenix",
+        "abstract"     :  "",
+        "year"           : "2010",
+        "web"       : "http://phoenix.gov",
+        "images"        : [
+			"/phoenix/icon1.jpg", "/phoenix/icon2.jpg", "/phoenix/icon3.jpg", "/phoenix/icon4.jpg", "/phoenix/icon5.jpg", "/phoenix/poac1.jpg", "/phoenix/poac2.jpg", "/phoenix/poac3.jpg", "/phoenix/hr.jpg"
+        ]
+    },
+	"PatTillmanFoundation":
+    {
+        "project"     : "Pat Tillman Foundation",
+        "abstract"     :  "",
+        "year"           : "2010",
+        "web"       : "http://pattillmanfoundation.org",
+        "images"        : [
+        "/ptf/ptf1.jpg", "/ptf/ptf2.jpg"
+        ]
+    },
+	"StBen":
+    {
+        "project"     : "Parish of Saint Benedict",
+        "abstract"     :  "",
+        "year"           : "2010",
+        "web"       : "http://stbenedict.org",
+        "images"        : [
+        "/stben/1.jpg", "/stben/2.jpg"
+        ]
+    },
+	"Medicis":
+    {
+        "project"     : "Medicis",
+        "abstract"     :  "",
+        "year"           : "2012",
+        "web"       : "http://restylaneusa.com",
+        "images"        : [
+        "/medicis/restylane1.jpg", "/medicis/dysport1.jpg", "/medicis/restylane2.jpg", "/medicis/dysport2.jpg", "/medicis/restylane3.jpg", "/medicis/dysport3.jpg", "/medicis/restylane4.jpg", "/medicis/admin1.jpg", "/medicis/admin2.jpg"
+        ]
+    },
+	"NASCAR":
+    {
+        "project"     : "NASCAR",
+        "abstract"     :  "",
+        "year"           : "2009",
+        "web"       : "",
+        "images"        : [
+        "/nascar/1.jpg", "/nascar/2.jpg", "/nascar/3.jpg", "/nascar/4.jpg"
+        ]
+    },
+	"CruiseAmerica":
+    {
+        "project"     : "Cruise America",
+        "abstract"     :  "Crusie America, the largest RV Rental company in the U.S., looked to update their web presence and interface in 2009. Their revised aesthetic borders between the modern and the rustic, leaving the user with a sense of Americana that was somehow attained online.",
+        "year"           : "2009",
+        "web"       : "http://cruiseamerica.com",
+        "images"        : [
+        "/cruiseamerica/1.jpg", "/cruiseamerica/2.jpg", "/cruiseamerica/3.jpg"
+        ]
+    },
+	"KodakChallenge":
+    {
+        "project"     : "Kodak Challenge",
+        "abstract"     :  "The Kodak Fantasy Challenge is a pick em' style fantasy golf game with a branded subtheme sponsored by Kodak. A major interface challenge was allowing a user to pick from a pool of 300+ golfers every week without overloading the visual space. jQuery and ajax were used in tandem in an auto-complete field that limited the available players based on user keystrokes - and it allowed for typos.",
+        "year"           : "2009",
+        "web"       : "",
+        "images"        : [
+        "/kodakchallenge/1.jpg", "/kodakchallenge/2.jpg", "/kodakchallenge/3.jpg"
+        ]
+    },
+	"BecomingHuman":
+    {
+        "project"     : "Becoming Human",
+        "abstract"     :  "Becoming Human is a venture by Arizona State University's Institute for HUman Origins - it centers around providing information and clear communication on the study of human evolution. IN addition to revamping their aesthetic, part of this project involved drawing attention to some of the lesser-viewed portions of the existing website - jQuery was used heavily to bring interaction to otherwise flat areas such as the evolutionary glossary and timeline.",
+        "year"           : "2010",
+        "web"       : "http://becominghuman.org",
+        "images"        : [
+        "/becominghuman/1.jpg", "/becominghuman/2.jpg", "/becominghuman/3.jpg", "/becominghuman/4.jpg"
+        ]
+    },
+	"MichaelsHouse":
+    {
+        "project"     : "Michael's House",
+        "abstract"     :  "Michael's House is a rehabilitation and recovery center in California. These works accompanied a series of articles written to bring light to various issues surrounding drug and alcohol addiction.",
+        "year"           : "2008",
+        "web"       : "",
+        "images"        : [
+        "/michaelshouse/1.jpg", "/michaelshouse/2.jpg", "/michaelshouse/3.jpg", "/michaelshouse/4.jpg", "/michaelshouse/5.jpg"
+        ]
+    },
+	"PGA":
+    {
+        "project"     : "PGA",
+        "abstract"     :  "",
+        "year"           : "2009",
+        "web"       : "",
+        "images"        : [
+        "/pga/1.jpg", "/pga/2.jpg"
+        ]
+    },
+	"Teamput":
+    {
+        "project"     : "Teamput",
+        "abstract"     :  "",
+        "year"           : "2013",
+        "web"       : "",
+        "images"        : [
+        "/teamput/1.jpg"
+        ]
+    },
+	"GLOO":
+    {
+        "project"     : "GLOO",
+        "abstract"     :  "",
+        "year"           : "2009",
+        "web"       : "",
+        "images"        : [
+        "/gloo/1.jpg"
+        ]
+    }
+}
